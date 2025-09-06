@@ -27,4 +27,3 @@ streamlit run app.py
 ## Notes
 - Sentiment and urgency are rule-based for offline use.
 - SMTP sending is supported via settings in the sidebar (host, port, username, password). Use with care.
-- This is a hackathon-grade reference; harden security and add OAuth for production.
